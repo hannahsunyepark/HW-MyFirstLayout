@@ -1,0 +1,30 @@
+nav{ 
+    height: 50px;
+    background-color: #E3F8FD;
+
+}
+
+.inline-block{
+    padding: 15px;
+    display: inline-block;
+    background-color: darkgrey;
+}
+.puppies {
+    display: inline-block;
+    width:29%;
+    height: 600px;
+    background-color: #FDE9E3;
+    vertical-align: top;
+}
+.dogs{ 
+    display: inline-block;
+    width: 69%;
+    height: 600px;
+    background-color: #E3EDFD;
+    
+    
+}
+.pet {
+    width: 100%;
+
+}
